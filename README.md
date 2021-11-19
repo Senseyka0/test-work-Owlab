@@ -11,7 +11,7 @@
 - React-hook-form - manage forms
 - Yup - useful validation of form
 
-### How to start the project locally 👻:
+## How to start the project locally 👻:
 
 - Download the repository
 - In your terminal write:
